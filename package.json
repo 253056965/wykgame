@@ -1,0 +1,25 @@
+{
+  "name": "wykgame",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fangxuewozoule",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "koa": "^2.6.2",
+    "koa-route": "^3.2.0",
+    "koa-websocket": "^5.0.1",
+    "log4js": "^3.0.6"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.0.46",
+    "@types/koa-route": "^3.2.4",
+    "@types/koa-websocket": "^5.0.3",
+    "tslint": "^5.11.0",
+    "typescript": "^3.1.6"
+  }
+}
